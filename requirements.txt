@@ -1,7 +1,0 @@
-Flask
-PyPOM
-pytest
-pytest-flask
-pytest-variables
-pytest-xdist
-pytest-selenium
