@@ -1,4 +1,5 @@
-*.pyc
 .cache
+*.pyc
+*.tox
 __pycache__
-results
+results/
