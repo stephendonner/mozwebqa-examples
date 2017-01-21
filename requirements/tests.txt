@@ -1,7 +1,6 @@
-Flask
+-r base.txt
 PyPOM==1.1.1
 pytest==3.0.5
 pytest-flask==0.10.0
 pytest-variables==1.4
-pytest-xdist==1.15.0
 pytest-selenium==1.7.0
